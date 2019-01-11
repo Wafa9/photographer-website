@@ -1,0 +1,11 @@
+header {
+  background-image: url(poto.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 1000px;
+}
+@media screen and(max-width:700px) {
+  header {
+    min-height: 500px;
+  }
+}
