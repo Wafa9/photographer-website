@@ -6,23 +6,24 @@ header {
   background-image: url(poto.jpg);
   background-size: cover;
   background-position: center;
-  min-height: 1000px;
+  min-height: 500px;
 }
-nav ul a {
+.right {
   font-family: "Amatic SC", cursive;
-  font-size: 20px;
+  font-size: 30px;
+  color: aliceblue;
 }
 
 .qute {
   color: aliceblue;
-  font-size: 25px;
   text-align: center;
   position: relative;
-  top: 400px;
+  top: 90px;
 }
-#name {
-  font-size: 12px;
+.welcome {
+  text-align: center;
 }
+
 #defniton {
   background: rgb(212, 211, 211);
   background-size: cover;
