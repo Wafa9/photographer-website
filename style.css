@@ -1,17 +1,13 @@
-<<<<<<< HEAD
 body {
   font-family: "Vibur", cursive;
 }
 
-=======
->>>>>>> d63603eb84a0dd7d10fa758a19b4b4bb257d57ff
 header {
   background-image: url(poto.jpg);
   background-size: cover;
   background-position: center;
   min-height: 1000px;
 }
-<<<<<<< HEAD
 nav ul a {
   font-family: "Amatic SC", cursive;
   font-size: 20px;
@@ -50,10 +46,4 @@ p {
 }
 .colection {
   background: rgba(177, 174, 174, 0.4);
-=======
-@media screen and(max-width:700px) {
-  header {
-    min-height: 500px;
-  }
->>>>>>> d63603eb84a0dd7d10fa758a19b4b4bb257d57ff
 }
