@@ -47,3 +47,13 @@ p {
 .colection {
   background: rgba(177, 174, 174, 0.4);
 }
+.img-card {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+}
+footer {
+  background: rgba(177, 174, 174, 0.4);
+  font-family: "Amatic SC", cursive;
+  text-align: center;
+  padding: 4%;
+}
